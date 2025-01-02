@@ -1,2 +1,2 @@
 # my_project_2
-these is my project
+these is my project2
